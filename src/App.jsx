@@ -20,7 +20,7 @@ function App() {
         shares with Rohit Sharma. He has also led CSK to two Champions League
         T20 titles in 2010 and 2014. Dhoni is among the few batsmen to have
         scored more than five thousand runs in the IPL, as well as being the
-        first wicket-keeper to do so.
+        first wicket-keeper to do so
       </p>
       <a></a>
     </>
