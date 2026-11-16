@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Hello world</h1>
+      {/* <h1>Hello world</h1>
       <h2>Hello AGH</h2>
       <div>
         Born in Ranchi, Dhoni made his first-class debut for Bihar in 1999. He
@@ -22,7 +22,36 @@ function App() {
         scored more than five thousand runs in the IPL, as well as being the
         first wicket-keeper to do so
       </p>
-      <a></a>
+      <a href="https://www.google.com/?zx=1794824796260">Google</a>
+      <a href="https://www.google.com/?zx=1794824796260" target="_blank">
+        Google
+      </a>
+      <ol>
+        <li>Bat</li>
+        <li>Ball</li>
+        <li>Wicket</li>
+      </ol>
+      <ul>
+        <li>Bat</li>
+        <li>Ball</li>
+        <li>Wicket</li>
+      </ul>
+      <img
+        src="https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg"
+        alt="Dhoni"
+      /> */}
+      <table border="1" cellpadding="50" cellspacing="0">
+        <tr>
+          <th>Firstname</th>
+          <th>Lastname</th>
+          <th>Age</th>
+        </tr>
+        <tr>
+          <td>Sai</td>
+          <td>Arun</td>
+          <td>GH</td>
+        </tr>
+      </table>
     </>
   );
 }
