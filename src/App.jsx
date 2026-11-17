@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      {/* <h1>Hello world</h1>
+      <h1>Hello world</h1>
       <h2>Hello AGH</h2>
       <div>
         Born in Ranchi, Dhoni made his first-class debut for Bihar in 1999. He
@@ -39,7 +39,7 @@ function App() {
       <img
         src="https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg"
         alt="Dhoni"
-      /> */}
+      />
       <table border="1" cellpadding="50" cellspacing="0">
         <tr>
           <th>Firstname</th>
